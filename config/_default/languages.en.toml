@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Atul Bhatt"
+# logo = "img/logo.png"
+description = "Portfolio"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Atul Bhatt"
+  image = "img/headshot.JPG"
+  headline = "I'm only human, am I?"
+  bio = "I'm a Java Developer, rest I'll say when this starts displaying correctly."
+  links = [
+      { email = "mailto:hello@your_domain.com" },
+      { github = "https://github.com/Atul-Bhatt" },
+  ]
