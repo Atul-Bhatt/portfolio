@@ -2,6 +2,8 @@
 title: "Thinking..."
 date: 2022-11-08T11:38:57+05:30
 draft: false
+
+tags: ["medium", "writing"]
 ---
 
 Am I in someone else’s head right now the same way I am thinking about all these people? People on the street who’re making all this noise, that girl in the coffee shop, family, people I used to work with, people I went to college with, that guy who made tea for me at the shop that I frequent. There are so many people this world and there’s so many things they must be thinking of. Like right now I’m thinking of buying a table lamp so I won’t have to turn on this frighteningly huge LED which lights up this living room.
