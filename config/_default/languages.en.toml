@@ -14,10 +14,10 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Atul Bhatt"
-  image = "img/headshot.JPG"
-  headline = "I'm only human, am I?"
+  #image = "img/headshot.JPG"
+  headline = "Java Developer"
   bio = "I'm a Java Developer, rest I'll say when this starts displaying correctly."
   links = [
-      { email = "mailto:hello@your_domain.com" },
+      { email = "mailto:atulbhatt61@gmail.com" },
       { github = "https://github.com/Atul-Bhatt" },
   ]

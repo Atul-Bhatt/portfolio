@@ -12,17 +12,17 @@
 
 [[main]]
   name = "Work"
-  pageRef = "posts"
+  pageRef = "work"
   weight = 10
 
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
+  name = "Writing"
+  pageRef = "writing"
   weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "About"
+  pageRef = "about"
   weight = 30
 
 [[main]]
@@ -34,7 +34,7 @@
 [[main]]
   identifier = "linkedin"
   pre = "linkedin"
-  url = "https://linkedin.com"
+  url = "https://www.linkedin.com/in/atul-bhatt-68244013a/"
   weight = 50
 
 # -- Footer Menu --

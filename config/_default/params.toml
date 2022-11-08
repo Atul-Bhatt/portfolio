@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["posts", "projects"]
+mainSections = ["work", "writing"]
 robots = ""
 
 [footer]
