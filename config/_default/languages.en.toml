@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "Atul Bhatt"
-# logo = "img/logo.png"
+#logo = "img/logo.png"
 description = "Portfolio"
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -16,7 +16,7 @@ dateFormat = "2 January 2006"
   name = "Atul Bhatt"
   #image = "img/headshot.JPG"
   headline = "Java Developer"
-  bio = "I'm a Java Developer, rest I'll say when this starts displaying correctly."
+  bio = ""
   links = [
       { email = "mailto:atulbhatt61@gmail.com" },
       { github = "https://github.com/Atul-Bhatt" },

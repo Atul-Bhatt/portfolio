@@ -18,8 +18,8 @@ robots = ""
 [footer]
   showMenu = true
   showCopyright = true
-  showThemeAttribution = true
-  showAppearanceSwitcher = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
@@ -27,8 +27,8 @@ robots = ""
   homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts"
+  showMoreLink = true
+  showMoreLinkDest = "/work"
   cardView = false
   cardViewScreenWidth = false
 
