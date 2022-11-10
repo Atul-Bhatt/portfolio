@@ -1,6 +1,6 @@
 ---
 title: "Thinking..."
-date: 2022-11-08T11:38:57+05:30
+date: 2022-07-25T11:38:57+05:30
 draft: false
 
 tags: ["medium", "writing"]

@@ -1,6 +1,6 @@
 ---
 title: "Shape Wars"
-date: 2022-11-09T10:05:32+05:30
+date: 2022-10-09T10:05:32+05:30
 draft: false
 
 tags: ["medium", "writing", "humor"]

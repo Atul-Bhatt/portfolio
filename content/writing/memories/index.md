@@ -1,6 +1,6 @@
 ---
 title: "Memories"
-date: 2022-11-07T17:05:57+05:30
+date: 2022-02-24T09:05:57+05:30
 draft: false
 
 tags: ["medium", "writing"]

@@ -1,6 +1,6 @@
 ---
 title: "Traceroute"
-date: 2022-11-07T16:33:57+05:30
+date: 2022-02-07T16:33:57+05:30
 draft: false
 
 tags: ["Computer networks", "program"]

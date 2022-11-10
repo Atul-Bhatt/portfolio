@@ -1,6 +1,6 @@
 ---
 title: "UI Designs"
-date: 2022-11-08T18:55:42+05:30
+date: 2022-10-13T18:55:42+05:30
 draft: false
 
 tags: ["CSS", "HTML", "JavaScript"]
