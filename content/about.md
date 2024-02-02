@@ -11,6 +11,9 @@ showLikes: false
 
 <cite style="margin-left: 360px;">&mdash; David Foster Wallace</cite>
 
+### Year 2024
+A lot has changed over the last 12 months. I've started working in Rust and Golang.
+
 ### Past
 My past experience might look weird at first but when I look back, I feel like couldn't have made better choices. When I graduated from high school I had to wait for a year to get education loan from the bank to get into a University and get a degree in Computer Science. After graduating from college I joined SAP Labs India and they allowed me to pursue Masters of Technology from Bits Pilani on weekends.
 
