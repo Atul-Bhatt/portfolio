@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	{{ partial "header.html" . }}
+	<body>
+		<div class="content">
+			{{ partial "head.html" . }}
+			
+			<main class="list">
+				<div class="site-description">
+					{{- if isset .Site.Params "subtitle" -}}
+					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
+					{{- end -}}
+				</div>
+				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
+				{{ range $paginator.Pages }}
+				<section class="list-item" style="display:flex;">
+					<p style="margin:2px"><time>{{ dateFormat "Jan 02, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</time></p>
+					<!-- <h1 class="title"><a href="{{ .RelPermalink }}">{{.Title}}</a></h1> -->
+					<p style="margin-left:20px; margin-bottom:2px; margin-top:2px; text-align: left;"><a href="{{ .RelPermalink }}">{{.Title}}</a></p>
+					<!-- <br>{{ template "partials/pagedescription.html" . }} -->
+					<!-- <a class="readmore" href="{{ .RelPermalink }}">Read more ⟶</a> -->
+				</section>
+				{{ end }}
+				{{ template "partials/paginator.html" . }}
+			</main>
+		</div>
+		
+	</body>
+</html>

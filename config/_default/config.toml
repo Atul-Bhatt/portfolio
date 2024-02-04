@@ -1,6 +1,6 @@
 # -- Site Configuration --
 
-theme = "archie"
+theme = "archie-master"
 baseURL = "https://atulbhatt.com/"
 defaultContentLanguage = "en"
 
