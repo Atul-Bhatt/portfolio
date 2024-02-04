@@ -1,7 +1,1 @@
-[submodule "themes/blowfish"]
-	path = themes/blowfish
-	url = https://github.com/nunocoracao/blowfish.git
-	branch = main
-[submodule "themes/archie-new"]
-	path = themes/archie-new
-	url = https://github.com/athul/archie.git
+
